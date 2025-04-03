@@ -1,8 +1,4 @@
-# Instal·lació i ús de SQLite
-
-Aquest projecte forma part de l'activitat A04 de l'assignatura de Gestors de Bases de Dades (M0377) a l'Institut Sa Palomera.
-
-## Què és SQLite?
+# SQLite - Instal·lació i ús bàsic
 
 SQLite és una base de dades relacional, molt lleugera i fàcil d'utilitzar. No cal instal·lar cap servidor, ja que funciona directament amb fitxers. És ideal per a aplicacions petites o per fer proves ràpides.
 
