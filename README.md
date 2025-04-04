@@ -22,3 +22,4 @@ SQLite és una base de dades relacional, molt lleugera i fàcil d'utilitzar. No 
 
 - sudo apt update
 - sudo apt install sqlite3
+- sudo apt install sqlitebrowser
