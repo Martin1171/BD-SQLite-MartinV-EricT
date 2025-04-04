@@ -16,7 +16,8 @@ SQLite és una base de dades relacional, molt lleugera i fàcil d'utilitzar. No 
 - Navegadors com Firefox o Chrome
 - Prototips o aplicacions d’escriptori
 
-TaulaComparativa.png
+![Taula d'exemple](captures/TaulaComparativa.png)
+
 ## Instal·lació de SQLite a Linux
 
 ### 1. Instal·lar SQLite
