@@ -8,6 +8,7 @@ SQLite és una base de dades relacional, molt lleugera i fàcil d'utilitzar. No 
 - Escrit en C
 - Mantingut per SQLite Consortium i una gran comunitat
 - Usat per empreses com Google, Apple i Mozilla
+- Última versió és la 3.49.1, publicada el 18 de febrer de 2025.
 
 ### Casos d’ús habituals
 
