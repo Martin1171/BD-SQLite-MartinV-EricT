@@ -26,5 +26,10 @@
 
 ```bash
 sudo apt update
+```
+```bash
 sudo apt install sqlite3
+```
+```bash
 sudo apt install sqlitebrowser
+```
